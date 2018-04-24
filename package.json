@@ -9,7 +9,7 @@
     "react-dom": "^16"
   },
   "dependencies": {
-    "babel-eslint": "8.2.3",
+    "babel-eslint": "^7.2.3",
     "classnames": "^2.2.5",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
