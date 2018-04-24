@@ -1,0 +1,30 @@
+{
+  "name": "react-boost",
+  "version": "0.0.1",
+  "description": "Handy dependencies for a React App!",
+  "author": "Jon Quach <hello@jonquach.com> (https://jonquach.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16",
+    "react-dom": "^16"
+  },
+  "dependencies": {
+    "babel-eslint": "8.2.3",
+    "classnames": "^2.2.5",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "4.19.1",
+    "eslint-plugin-react": "7.7.0",
+    "prop-types": "^15.6.1",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.0",
+    "standard": "^11.0.1"
+  },
+  "devDependencies": {
+    "react": "^16.3.2",
+    "react-dom": "16.3.2"
+  }
+}
